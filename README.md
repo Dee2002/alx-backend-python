@@ -6,6 +6,7 @@ This repository contains Python scripts and projects related to the ALX Backend 
 
 - [**0x00-python_variable_annotations**](https://github.com/Dee2002/alx-backend-python/tree/main/0x00-python_variable_annotations): Scripts implementing tasks related to variable annotations in Python
 - [**0x02-python_async_comprehension**](https://github.com/Dee2002/alx-backend-python/tree/main/0x02-python_async_comprehension): Scripts demonstrating asynchronous generators and comprehensions, along with measuring runtime for parallel asynchronous operations.
+- [**0x01-python_async_function**](https://github.com/Dee2002/alx-backend-python/tree/main/0x01-python_async_function): scripts demonstrating various asynchronous programming concepts and practices using the asyncio module.
 
 Each directory may contain multiple scripts or projects, each addressing different aspects of the corresponding topic.
 
