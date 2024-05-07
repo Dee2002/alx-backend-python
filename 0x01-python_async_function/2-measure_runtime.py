@@ -10,7 +10,8 @@ from typing import Callable
 
 def measure_time(n: int, max_delay: int) -> float:
     """
-    Measure the total execution time for wait_n(n, max_delay) and return average time per coroutine.
+    Measure the total execution time for wait_n(n, max_delay) and
+    return average time per coroutine.
     """
     start_time = time.time()
     asyncio.run(wait_n(n, max_delay))

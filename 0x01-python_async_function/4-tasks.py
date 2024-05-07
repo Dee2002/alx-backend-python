@@ -10,7 +10,8 @@ from 0-basic_async_syntax import wait_random
 
 async def task_wait_n(n: int, max_delay: int) -> List[float]:
     """
-    Create and execute asyncio tasks for wait_random coroutine n times with specified max_delay.
+    Create and execute asyncio tasks for wait_random coroutine n times with
+    specified max_delay.
     Return list of delays.
     """
     tasks: List[Task] = []
